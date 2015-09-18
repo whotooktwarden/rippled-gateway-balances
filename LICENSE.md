@@ -1,0 +1,2 @@
+rippled-gateway-balances was made for use in conjunction with the QuickGatewayKit by Taylor Warden, both packages are licensed under a Creative Commons Attribution 4.0 International License, please see https://creativecommons.org/licenses/by/4.0/>
+<p>Based on a work at <a href="https://github.com/whotooktwarden/QuickGatewayKit">https://github.com/whotooktwarden/QuickGatewayKit</a>.</p>
