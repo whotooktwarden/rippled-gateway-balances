@@ -13,11 +13,11 @@ This packageis provided AS-IS and WITHOUT WARRANTY.
 >THE RESULTING LAWSUIT WILL BE HEARD FROM WITHIN A COURT OF ONTARIO, CANADA.
 
 
-1. Purpose
+* Purpose
 
 This package is for Ripple Gateways to allow their clients to audit their balances and their obligations over the network.  This is accomplished by specifying an issuer and a hot wallet to ignore within the gatewaybal1.rb and/or gatewaybal2.rb files.  The PHP file requires a call to this ruby script via shell_exec(), which will fetch the balances from the rippled node on your server for display to the user.
 
-2. Command-line Usage
+* Command-line Usage
 
 >ruby gatewaybal1.rb
 
@@ -27,11 +27,11 @@ or
 >ruby gatewaybal2.rb
 
 
-3. Reference Materials
+* Reference Materials
 
 [Fetching Gateway's Balance from their Web site](https://forum.ripple.com/viewtopic.php?f=2&t=15656)
 
-4. Donations
+* Donations
 
 
 Please consider donating a small amount of XRP or Bitcoin to: https://www.bountysource.com/teams/qgk
@@ -40,7 +40,7 @@ Please consider donating a small amount of XRP or Bitcoin to: https://www.bounty
 for the continued support/development of this resource if it was was helpful for starting your Ripple-based or Cryptocurrency Exchange business.
 
 
-5.  Join the Ripple Community!
+*  Join the Ripple Community!
 
 
 Join us at the official Ripple forums! https://forum.ripple.com/
